@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="300"
+   height="300"
+   id="svg2"
+   version="1.0">
+  <title
+     id="title2992">comment</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>comment</dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Martin Skilnand</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Martin Skilnand</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2009.11.19</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Mumble team</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>Icon for voice chat program mumble</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>mumble comment</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     style="display:inline">
+    <g
+       transform="matrix(1.3993386,0,0,1.2947563,-23.015006,-20.252338)"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot2997">
+      <rect
+         y="116.5772"
+         x="36.957119"
+         height="117.16998"
+         width="173.36688"
+         id="rect834"
+         style="fill:none;stroke:#00d400;stroke-width:19.8113;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.8113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m 154.76172,16.986328 c -10.74693,-0.618627 -22.25373,1.292697 -33.67188,4.373047 -15.22419,4.107133 -30.147102,10.516906 -41.865231,17.789063 -5.859064,3.636078 -10.921021,7.453709 -14.933593,11.740234 -4.012572,4.286525 -7.578125,9.255196 -7.578125,16.21875 -0.132048,15.86935 0,49.152348 0,49.152348 l 19.8125,-0.0781 c 0,0 -0.132205,-33.503738 -0.002,-48.992187 l 0.002,-0.04102 v -0.04102 c 0,1.182014 0.0011,-0.300236 2.228515,-2.679688 2.22738,-2.379451 6.07802,-5.442899 10.916016,-8.445312 9.675992,-6.004847 23.257728,-12.473493 36.153498,-17.501975 4.83625,-1.885813 9.43183,-3.724731 14.01669,-4.898111 8.28814,-2.121141 15.94335,-2.423808 20.8977,-0.751993 6.48936,2.189794 9.12,3.958939 10.70321,5.429932 1.53719,1.428237 5.90311,6.484282 6.00859,10.951742 0.0284,1.201715 0.0785,3.035446 0.1321,6.946836 0.0256,1.868693 10.43309,3.859038 10.45822,5.791785 0.0273,2.099397 -10.32799,4.130836 -10.30617,5.864588 0.038,3.019562 0.0638,6.680847 0.0638,6.680847 h 12.8294 v -24.38086 c 0,-8.195872 -2.54099,-15.762062 -7.33398,-21.27539 -4.79299,-5.513329 -11.30445,-8.703683 -18.06836,-10.341797 -3.38196,-0.819057 -6.88058,-1.30551 -10.46289,-1.511719 z"
+         id="path841" />
+      <g
+         transform="matrix(1.4980346,0,0,1.4980346,-55.211024,-109.08412)"
+         id="g844"
+         style="stroke:#00d400;fill:#00d400">
+        <ellipse
+           style="fill:#00d400;stroke:#00d400;stroke-width:10.7465;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path838"
+           cx="119.39082"
+           cy="176.1277"
+           rx="6.9777808"
+           ry="7.5414019" />
+        <path
+           style="fill:#00d400;stroke:#00d400;stroke-width:0.805988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 112.18947,180.38312 0.12986,28.27514 h 15.57263 l -1.08941,-27.42828"
+           id="path840" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(-22.223346,53.739535)"
+     id="layer1"
+     style="display:inline" />
+</svg>
